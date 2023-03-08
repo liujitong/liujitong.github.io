@@ -5,6 +5,7 @@ class example
     public:
     example(int a)
     {
+        a=1;
         cout<<"现在是有参调用"<<endl;
     }
     example()
@@ -14,6 +15,7 @@ class example
     //拷贝构造函数
     example (const example &xx)
     {
+        example p12=xx;
         cout << "拷贝构造函数!" << endl;
     }
     //析构函数
