@@ -1,16 +1,70 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-title: 美丽新科技私人仓库
-theme: jekyll-theme-cayman
+# Site
+title:         BG2GBQ的个人网页
+bio:            '常来看看'
+description:    "欢迎来看看"
+picture:        'assets/img/Logo.png'
+locale:         zh_CN
+url:            https://bg2gbq.top
+
+# Jekyll
+permalink:      /:title/
+markdown:       kramdown
+highlighter:    rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Social
+# if you don't have any of social below, comment the line.
+#email:
+twitter: bg2gbq
+# facebook: username
+#google:
+  #plus: #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+github: liujitong
+postcrossing: liujitong
+qrz: BG2GBQ
+email: bg2gbq@mlxkj.xyz
+
+# stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+# linkedin: username
+# #xing: username
+# instagram: username
+# lastfm: username
+# tumblr: username
+# #pinterest: username
+# #foursquare: username
+# steam: username
+# #dribbble: username
+# youtube: username
+# #soundcloud: username
+# #weibo: username
+# #flickr: username
+# #codepen: username
+
+
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: 主页
+  url: /
+
+- title: 文章
+  url: /blog/
+
+- title: 公共交通
+  url: /public_transport/
+
+- title: 关于
+  url: /about/

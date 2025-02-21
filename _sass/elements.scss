@@ -1,0 +1,153 @@
+a {
+	text-decoration: none;
+	color: $color_7;
+	transition: all .5s;
+	&:visited {
+		color: $color_8;
+	}
+	&:hover {
+		color: $color_9;
+		outline: 0;
+	}
+	&:focus {
+		outline: 0;
+		color: $color_7;
+	}
+	&:active {
+		border: 0;
+		outline: 0;
+	}
+}
+figcaption {
+	padding-top: 0;
+	font-size: 14px;
+	font-size: .875rem;
+	line-height: 1.8571;
+	line-height: 1.3;
+	color: $color_10;
+}
+p {
+	margin: 0 0 1em;
+	line-height: 1.6;
+	code {
+		@extend %extend_1;
+	}
+}
+hr {
+	margin: 1.563em 0 1.563em;
+	color: $color_11;
+}
+pre {
+	font-size: 12px;
+	font-size: .75rem;
+	line-height: 1.5;
+	overflow-x: auto;
+	white-space: pre;
+	font-family: $font2, !important;
+}
+code {
+	font-family: $font2, !important;
+	font-size: 0.75rem;
+}
+li code {
+	@extend %extend_1;
+}
+.gist-file {
+	border: 1px solid $color_1 !important;
+	border-radius: 0 !important;
+}
+blockquote {
+	padding: 0 0.688em;
+	border-left: 5px solid $color_13;
+	line-height: 1.563em;
+	font-style: italic;
+}
+iframe {
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+.image-pull-right {
+	float: right;
+	margin-top: 0;
+	img {
+		margin: 0;
+	}
+}
+.btn {
+	display: inline-block;
+	//margin-bottom: 1.25rem;
+	padding: 0.5rem 1.25rem;
+	font-size: 1rem;
+	font-weight: 700;
+	background-color: $color_0 !important;
+	color: $color_1 !important;
+	border: 1.5px solid $color_1 !important;
+	text-decoration: none !important;
+	&:hover {
+		background-color: $color_11 !important;
+		color: $color_14 !important;
+		border: 1.5px solid $color_4 !important;
+	}
+}
+kbd {
+	display: inline-block;
+	padding: 3px 5px;
+	font-size: 11px;
+	line-height: 10px;
+	color: $color_15;
+	vertical-align: middle;
+	background-color: $color_16;
+	border: solid 1px $color_17;
+	border-bottom-color: $color_18;
+	border-radius: 3px;
+	box-shadow: inset 0 -1px 0 $color_18;
+}
+.half img {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+.third img {
+	display: inline;
+	float: left;
+	width: 33.33333%;
+}
+
+// 整表
+table {
+    border: 1px solid $color_1;    /* 给表格添加 1px 宽度的边框，颜色使用变量 $color_1 */
+    border-collapse: collapse;     /* 让表格边框合并，避免单元格之间有双重边框 */
+    border-spacing: 0;             /* 让单元格之间没有额外的间距 */
+    margin-bottom: 1.5em;          /* 在表格底部添加 1.5em 的外边距，防止与下方内容紧贴 */
+    width: 100%;                   /* 让表格宽度充满父容器 */
+}
+
+// 表体
+td {
+    line-height: 2.5em;            /* 设置行高为 2.5em，使表格内的文字更加舒展 */
+    padding: 0.4em;                /* 设置单元格内部的内边距，避免内容紧贴边框 */
+    border-top: 1px solid $color_1; /* 在每个单元格顶部添加 1px 的边框，颜色使用变量 $color_1 */
+	border: 1px solid $color_1;  		/* 让单元格之间有浅灰色的分割线 */
+}
+
+
+// 表头
+th {
+    background-color: $color_0;  /* 设置表头的背景颜色，颜色使用变量 $color_0 */
+    line-height: 2.5em;          /* 让表头的文字有 2.5em 的行高，与表格整体风格保持一致 */
+    padding: 0.4em;              /* 给表头的内容添加 0.4em 的内边距，增加舒适度 */
+    color: $color_1;             /* 设置表头文字颜色，颜色使用变量 $color_2 */
+	border: 1px solid $color_1;  		/* 让单元格之间有浅灰色的分割线 */
+}
+
+// 斑马纹
+tr:nth-child(even) {  
+    background-color: #f8f8f8; /* 偶数行（2、4、6...）的背景色设置为浅灰色 */
+}
+
+/* 鼠标悬停时高亮当前行 */
+tr:hover {  
+    background-color: #e0e0e0; /* 鼠标悬停在某一行时，该行的背景色变成更深的灰色 */
+}
