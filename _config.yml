@@ -4,7 +4,7 @@ bio:            '常来看看'
 description:    "欢迎来看看"
 picture:        'assets/img/Logo.png'
 locale:         zh_CN
-url:            https://bg2gbq.top
+url:            https://blog.mlxkj.xyz
 
 # Jekyll
 permalink:      /:title/
