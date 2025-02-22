@@ -4,8 +4,7 @@ bio:            '随便写写 常来看看'
 description:    "欢迎来看看"
 picture:        'assets/img/Logo.png'
 locale:         zh_CN
-url:            https://blog.mlxkj.xyz
-
+url:            https://bg2gbq.top
 # Jekyll
 permalink:      /:title/
 markdown:       kramdown
