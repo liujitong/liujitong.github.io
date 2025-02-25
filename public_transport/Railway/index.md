@@ -24,16 +24,30 @@ Next, I welcome you to follow the railways and stations I have visited to learn 
 
 ![国铁logo](http://www.china-railway.com.cn/images/t_logo.png)
 
-## 目录
+## 车站 - Stations
 
-- [中国铁路上海局集团有限公司](./中国铁路上海局集团有限公司/index.html)
-- [中国铁路北京局集团有限公司](./中国铁路北京局集团有限公司/index.html)
-- [中国铁路南昌局集团有限公司](./中国铁路南昌局集团有限公司/index.html)
-- [中国铁路哈尔滨局集团有限公司](./中国铁路哈尔滨局集团有限公司/index.html)
-- [中国铁路广州局集团有限公司](./中国铁路广州局集团有限公司/index.html)
-- [中国铁路成都局集团有限公司](./中国铁路成都局集团有限公司/index.html)
-- [中国铁路昆明局集团有限公司](./中国铁路昆明局集团有限公司/index.html)
-- [中国铁路武汉局集团有限公司](./中国铁路武汉局集团有限公司/index.html)
-- [中国铁路沈阳局集团有限公司](./中国铁路沈阳局集团有限公司/index.html)
-- [中国铁路西安局集团有限公司](./中国铁路西安局集团有限公司/index.html)
-- [中国铁路青藏集团有限公司](./中国铁路青藏集团有限公司/index.html)
+点击下方链接可以跳转到我所感受过的各个铁路局的页面。
+
+Please click the links below to jump to the pages I have visited.
+
+[中国铁路上海局集团有限公司 - CR Shanghai](./中国铁路上海局集团有限公司/index.html)
+
+[中国铁路北京局集团有限公司 - CR Beijing](./中国铁路北京局集团有限公司/index.html)
+
+[中国铁路南昌局集团有限公司 - CR Nanchang](./中国铁路南昌局集团有限公司/index.html)
+
+[中国铁路哈尔滨局集团有限公司 - CR Harerbin](./中国铁路哈尔滨局集团有限公司/index.html)
+
+[中国铁路广州局集团有限公司 - CR Guangzhou](./中国铁路广州局集团有限公司/index.html)
+
+[中国铁路成都局集团有限公司 - CR Chengdu](./中国铁路成都局集团有限公司/index.html)
+
+[中国铁路昆明局集团有限公司 - CR Kunming](./中国铁路昆明局集团有限公司/index.html)
+
+[中国铁路武汉局集团有限公司 - CR Wuhan](./中国铁路武汉局集团有限公司/index.html)
+
+[中国铁路沈阳局集团有限公司 - CR Shenyang](./中国铁路沈阳局集团有限公司/index.html)
+
+[中国铁路西安局集团有限公司 - CR Xian](./中国铁路西安局集团有限公司/index.html)
+
+[中国铁路青藏集团有限公司 - CR Qingzang](./中国铁路青藏集团有限公司/index.html)

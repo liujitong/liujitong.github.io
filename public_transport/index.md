@@ -2,6 +2,7 @@
 layout: page
 title: 公共交通 - Public Transport
 excerpt: "为您展现当代中国立体化的交通网络"
+
 ---
 ## 摘要 - Abstract
 
@@ -17,7 +18,7 @@ In this chapter, you will see China's public transportation network, including s
 
 ## 目录 - Table of Contents
 
-### [国铁 China Railway ](./Railway/index.html)
+### [国铁 China Railway](./Railway/index.html)
 
 因为中国目前的铁路虽然个别线路存在地方铁路运营的情况，包括黑河地铁、广州城际等，但是目前我国大多数铁路网还都是处在中国国家铁路集团有限公司及其下属的铁路局的运营之下，所以这里我将中国的铁路统称为国铁。
 
