@@ -13,7 +13,17 @@ language: zh-Cn
 
 At this page you will see the envelopes I designed. They may be designed to match a stamp issue, or to commemorate an event, or just for the sake of designing some envelopes.
 
-#### [庆祝中国核工业70周年纪念封 XF-2025-01-J](./envelope_design/XF-2025-01-J/)
+#### [XF-2025-01-J 庆祝中国核工业70周年纪念封](./envelope_design/XF-2025-01-J/)
+
+为配合中国核工业70周年纪念邮票发行，我的朋友设计了这个纪念封。
+
+To match the issue of the stamps commemorating the 70th anniversary of China's nuclear industry, my friend designed this commemorative envelope.
+
+#### [XF-2025-01-P Python蛇迎新春](./envelope_design/XF-2025-01-P/)
+
+主要是为了迎接2025年蛇年的到来，我的朋友设计了这个信封。
+
+Mainly to welcome the arrival of the Year of the Snake in 2025, my friend designed this envelope.
 
 ### 明信片设计 - Postcard Design
 
