@@ -6,12 +6,13 @@ language: zh-Cn
 
 ## 通知 - Notice
 
-根据我个人的计划安排，在2025年1月1日起未发送的QSL卡片将在2025年4月1日前全部发送到位。请耐心等待。
+以下同志的卡片将于2025年5月2日通过中国邮政发送：
 
-According to my personal schedule, all unsent QSL cards as of January 1, 2025 will be sent by April 1, 2025. Please be patient.
+212	BD7PUU	ARISS	2025-3-1 23:20
+251	BH6BMJ	ARISS	2025-4-5 18:00
+221	BG5EIC	ARISS	2025-3-9 20:40
+287	BH6BSY	SO-50	2025-5-1 18:20
+289	BG6HMA	SO-50	2025-5-1 18:20
 
-根据本人网站维护计划，我的个人日志管理系统[ham.mlxkj.xyz](https://ham.mlxkj.xyz/)将会于2025年4月1日前迭代2.0版本，期间版本可能不会正常使用，敬请耐心等待
-
-According to my website maintenance plan, my personal log management system [ham.mlxkj.xyz](https://ham.mlxkj.xyz/) will be iterated to version 2.0 by Apirl 1, 2025. During this period, the version may not be available, please be patient.
 
 ## 业余无线电 - Ham Radio
