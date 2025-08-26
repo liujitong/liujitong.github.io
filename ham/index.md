@@ -5,6 +5,17 @@ language: zh-Cn
 ---
 ## 通知 - Notice
 
+### 2025年8月寄出公告2（The 2025-08-2 Notice 2）
+
+以下同志的QSL卡片已通过中国邮政平信寄出，详单如下：
+
+The following operators' QSL cards have been sent via China Post ordinary mail. Details are as follows:
+
+| ID  | 呼号（Callsign）| 频率 (Freq) | 时间 (BJT)                |
+|-----|-------------|----------|----------------------|
+| 372 | BH8GAU      | SO-50    | 2025-08-26 00:55     |
+| 373 | BG7LMO      | ARISS    | 2025-08-26 00:30     |
+
 ### 2025年8月寄出公告（The 2025-08 Notice）
 
 以下同志的QSL卡片已通过中国邮政平信寄出，详单如下：
