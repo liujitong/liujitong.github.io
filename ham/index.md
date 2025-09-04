@@ -5,6 +5,22 @@ language: zh-Cn
 ---
 ## 通知 - Notice
 
+### 2025年9月寄出公告（The 2025-09 Notice）
+
+以下同志的QSL卡片已通过中国邮政平信寄出，详单如下：
+
+The following operators' QSL cards have been sent via China Post ordinary mail. Details are as follows:
+
+已在9月3日贴中国共产主义青年团成立一百周年纪念邮票寄出。
+
+| ID  | 呼号（Callsign）| 频率 (Freq) | 时间 (BJT)                |
+|-----|-------------|----------|----------------------|
+| 374 | JE0KBP      | ARISS    | 2025-09-03 05:40     |
+| 375 | BD1BGB      | ARISS    | 2025-09-03 05:40     |
+| 376 | BH6BSW      | ARISS    | 2025-09-01 22:15     |
+| 377 | BG5CZD      | SO-124   | 2025-08-26 23:00     |
+| 378 | BG5JKZ      | 南昌梅岭中继 | 2025-08-20 11:41     |
+
 ### 2025年8月寄出公告2（The 2025-08-2 Notice 2）
 
 以下同志的QSL卡片已通过中国邮政平信寄出，详单如下：
